@@ -1,10 +1,10 @@
 # AI-Powered-Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-and-LLMs
 Designed and implemented an AI-powered Resume Application Tracking System(ATS) leveraging Google Gemini Pro and advanced LLMs to streamline recruitment processes. The system automates resume parsing, skill matching, and job recommendations with high accuracy and efficiency.
 
-# Architectural Diagram : 
+## Architectural Diagram : 
 ![architectural diagram](https://github.com/user-attachments/assets/fa04a229-68f0-4065-80d6-f6d46892a646)
 
-# Applicant Tracking System : 
+## Applicant Tracking System : 
 ![Applicant Tracking System](https://github.com/user-attachments/assets/49678cf9-1610-474c-983f-6e1a6edb19c4)
 
 This repository hosts the code and resources for building an AI-powered Resume Application Tracking System leveraging Google Gemini Pro and Streamlit. The application is designed to extract, analyze, and evaluate resumes efficiently using cutting-edge technologies.
@@ -15,6 +15,14 @@ This repository hosts the code and resources for building an AI-powered Resume A
 - **Frontend:** Streamlit (Python Web Framework)
 - **Hosting:** GitHub
 - **LLM API:** Google Gemini Pro
+
+## Key Features:
+
+- **Intelligent Resume Parsing:** Extracts key details like skills, experience, education, and certifications, matching them with job requirements.
+- **Advanced Candidate Scoring:** Uses LLM-powered models to assess and rank candidate suitability based on job descriptions and company culture.
+- **Automated Resume Screening:** Filters and sorts resumes based on predefined criteria, streamlining the hiring process.
+- **Personalized Candidate Feedback:** Offers tailored feedback on strengths and areas for improvement, enhancing candidate experience and employer branding.
+- **Real-time Analytics and Insights:** Tracks metrics like time-to-hire and candidate quality, providing insights to optimize hiring.
 
 ## Steps to Create the Project
 
