@@ -26,15 +26,17 @@ Upload your resume and job description for quick analysis.
 
 **1.Upload Your Resume:**
 Simply upload your resume in PDF format.
+
 **2.Enter Job Description:**
 Paste the job description you're targeting.
+
 **3.Get Instant Insights:**
 Receive a detailed analysis of your resume, including:
 Match score with the job description.
 Missing keywords to add.
 Suggestions for improvement.
 
-## Architectural Diagram : 
+## Architectural Diagram With Working Description : 
 ![architectural diagram](https://github.com/user-attachments/assets/fa04a229-68f0-4065-80d6-f6d46892a646)
 
 ## Applicant Tracking System : 
