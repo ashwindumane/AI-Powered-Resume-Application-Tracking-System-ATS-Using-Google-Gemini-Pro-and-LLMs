@@ -5,36 +5,34 @@ Designed and implemented an AI-powered Resume Application Tracking System(ATS) l
 Many resumes are rejected by Applicant Tracking Systems (ATS) due to keyword mismatches and formatting issues.
 
 ## Solution: 
-Our AI-powered Resume ATS helps you optimize your resume for maximum impact & improving your chances of getting noticed by recruiters.
+Our AI-powered Resume ATS helps you optimize your resume for maximum impact & improving your chances of getting noticed by recruiters.Elevate Your Job Search With our AI-powered ATS(Application Tracking System), you can increase your chances of getting noticed by recruiters and landing your dream job 🚀💥
 
 ## Key Features:
 
--**Intelligent Resume Analysis**:
+**1.Intelligent Resume Analysis:**
 Extracts key information from your resume.
 Identifies missing keywords and suggests improvements.
 Compares your resume to job descriptions for a better match.
 
--**Personalized Feedback:**
+**2.Personalized Feedback:**
 -Receives tailored advice on how to enhance your resume's effectiveness.
 -Identifies strengths and weaknesses in your resume.
 
--**User-Friendly Interface:**
+**3.User-Friendly Interface:**
 -Easy-to-use platform with a clear and intuitive design.
 -Upload your resume and job description for quick analysis.
 
 ## How It Works:
 
--**1.Upload Your Resume:**
+**1.Upload Your Resume:**
 -Simply upload your resume in PDF format.
--**2.Enter Job Description:**
+**2.Enter Job Description:**
 -Paste the job description you're targeting.
--**3.Get Instant Insights:**
+**3.Get Instant Insights:**
 -Receive a detailed analysis of your resume, including:
 -Match score with the job description.
 -Missing keywords to add.
 -Suggestions for improvement.
-
-## Elevate Your Job Search With our AI-powered ATS(Application Tracking System), you can increase your chances of getting noticed by recruiters and landing your dream job 🚀💥
 
 ## Architectural Diagram : 
 ![architectural diagram](https://github.com/user-attachments/assets/fa04a229-68f0-4065-80d6-f6d46892a646)
