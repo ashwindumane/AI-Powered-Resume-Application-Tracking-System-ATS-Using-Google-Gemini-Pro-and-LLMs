@@ -1,5 +1,38 @@
-# AI-Powered-Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-and-LLMs
+# AI-Powered-Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-and-LLMs 🚀💥
 Designed and implemented an AI-powered Resume Application Tracking System(ATS) leveraging Google Gemini Pro and advanced LLMs to streamline recruitment processes. The system automates resume parsing, skill matching, and job recommendations with high accuracy and efficiency.
+
+## Problem Statement: Many resumes are rejected by Applicant Tracking Systems (ATS) due to keyword mismatches and formatting issues.
+
+## Solution: Our AI-powered Resume ATS helps you optimize your resume for maximum impact.
+
+## Key Features:
+
+-**Intelligent Resume Analysis**:
+-Extracts key information from your resume.
+-Identifies missing keywords and suggests improvements.
+-Compares your resume to job descriptions for a better match.
+
+-**Personalized Feedback:**
+-Receives tailored advice on how to enhance your resume's effectiveness.
+-Identifies strengths and weaknesses in your resume.
+
+-**User-Friendly Interface:**
+-Easy-to-use platform with a clear and intuitive design.
+-Upload your resume and job description for quick analysis.
+
+## How It Works:
+
+-**1.Upload Your Resume:**
+-Simply upload your resume in PDF format.
+-**2.Enter Job Description:**
+-Paste the job description you're targeting.
+-**3.Get Instant Insights:**
+-Receive a detailed analysis of your resume, including:
+-Match score with the job description.
+-Missing keywords to add.
+-Suggestions for improvement.
+
+## Elevate Your Job Search With our AI-powered ATS(Application Tracking System), you can increase your chances of getting noticed by recruiters and landing your dream job 🚀💥
 
 ## Architectural Diagram : 
 ![architectural diagram](https://github.com/user-attachments/assets/fa04a229-68f0-4065-80d6-f6d46892a646)
@@ -7,22 +40,12 @@ Designed and implemented an AI-powered Resume Application Tracking System(ATS) l
 ## Applicant Tracking System : 
 ![Applicant Tracking System](https://github.com/user-attachments/assets/49678cf9-1610-474c-983f-6e1a6edb19c4)
 
-This repository hosts the code and resources for building an AI-powered Resume Application Tracking System leveraging Google Gemini Pro and Streamlit. The application is designed to extract, analyze, and evaluate resumes efficiently using cutting-edge technologies.
-
-## Tools and Libraries
+## Tools and Libraries 🚀💥
 - **Code Editor:** Visual Studio Code
 - **Language:** Python
 - **Frontend:** Streamlit (Python Web Framework)
 - **Hosting:** GitHub
 - **LLM API:** Google Gemini Pro
-
-## Key Features:
-
-- **Intelligent Resume Parsing:** Extracts key details like skills, experience, education, and certifications, matching them with job requirements.
-- **Advanced Candidate Scoring:** Uses LLM-powered models to assess and rank candidate suitability based on job descriptions and company culture.
-- **Automated Resume Screening:** Filters and sorts resumes based on predefined criteria, streamlining the hiring process.
-- **Personalized Candidate Feedback:** Offers tailored feedback on strengths and areas for improvement, enhancing candidate experience and employer branding.
-- **Real-time Analytics and Insights:** Tracks metrics like time-to-hire and candidate quality, providing insights to optimize hiring.
 
 ## Steps to Create the Project
 
