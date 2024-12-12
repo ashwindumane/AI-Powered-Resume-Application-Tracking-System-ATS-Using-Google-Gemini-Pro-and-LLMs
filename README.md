@@ -1,16 +1,18 @@
 # AI-Powered-Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-and-LLMs 🚀💥
 Designed and implemented an AI-powered Resume Application Tracking System(ATS) leveraging Google Gemini Pro and advanced LLMs to streamline recruitment processes. The system automates resume parsing, skill matching, and job recommendations with high accuracy and efficiency.
 
-## Problem Statement: Many resumes are rejected by Applicant Tracking Systems (ATS) due to keyword mismatches and formatting issues.
+## Problem Statement: 
+Many resumes are rejected by Applicant Tracking Systems (ATS) due to keyword mismatches and formatting issues.
 
-## Solution: Our AI-powered Resume ATS helps you optimize your resume for maximum impact.
+## Solution: 
+Our AI-powered Resume ATS helps you optimize your resume for maximum impact & improving your chances of getting noticed by recruiters.
 
 ## Key Features:
 
 -**Intelligent Resume Analysis**:
--Extracts key information from your resume.
--Identifies missing keywords and suggests improvements.
--Compares your resume to job descriptions for a better match.
+Extracts key information from your resume.
+Identifies missing keywords and suggests improvements.
+Compares your resume to job descriptions for a better match.
 
 -**Personalized Feedback:**
 -Receives tailored advice on how to enhance your resume's effectiveness.
