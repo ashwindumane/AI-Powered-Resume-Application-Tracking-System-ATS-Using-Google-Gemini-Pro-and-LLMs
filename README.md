@@ -15,24 +15,24 @@ Identifies missing keywords and suggests improvements.
 Compares your resume to job descriptions for a better match.
 
 **2.Personalized Feedback:**
--Receives tailored advice on how to enhance your resume's effectiveness.
--Identifies strengths and weaknesses in your resume.
+Receives tailored advice on how to enhance your resume's effectiveness.
+Identifies strengths and weaknesses in your resume.
 
 **3.User-Friendly Interface:**
--Easy-to-use platform with a clear and intuitive design.
--Upload your resume and job description for quick analysis.
+Easy-to-use platform with a clear and intuitive design.
+Upload your resume and job description for quick analysis.
 
 ## How It Works:
 
 **1.Upload Your Resume:**
--Simply upload your resume in PDF format.
+Simply upload your resume in PDF format.
 **2.Enter Job Description:**
--Paste the job description you're targeting.
+Paste the job description you're targeting.
 **3.Get Instant Insights:**
--Receive a detailed analysis of your resume, including:
--Match score with the job description.
--Missing keywords to add.
--Suggestions for improvement.
+Receive a detailed analysis of your resume, including:
+Match score with the job description.
+Missing keywords to add.
+Suggestions for improvement.
 
 ## Architectural Diagram : 
 ![architectural diagram](https://github.com/user-attachments/assets/fa04a229-68f0-4065-80d6-f6d46892a646)
