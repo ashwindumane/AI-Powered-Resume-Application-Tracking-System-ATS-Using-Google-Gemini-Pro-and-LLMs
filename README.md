@@ -46,7 +46,7 @@ Our AI-powered Resume ATS helps you optimize your resume for maximum impact & im
 - **Code Editor:** Visual Studio Code
 - **Language:** Python
 - **Frontend:** Streamlit (Python Web Framework)
-- **Hosting:** GitHub
+- **Model Varient:** Gemini 1.0 pro model variant
 - **LLM API:** Google Gemini Pro
 
 ## Steps to Create the Project
